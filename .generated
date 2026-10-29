@@ -1,0 +1,41 @@
+AssetBasedConstructor
+donor: GameAppDonor (app.game.donor)
+project: Gyro of Olims (milagros.gyroofolims.mobile)
+prefix: MOOSE
+seed: 2702167654842861505
+app/src/main/java/app/game/donor/ui/composable/approot/background -> v_pulse
+app/src/main/java/app/game/donor/ui/composable/approot/background/points -> v_grid_diamond
+app/src/main/java/app/game/donor/ui/composable/approot/topbar -> v_primary
+app/src/main/java/app/game/donor/ui/composable/screen/about/card -> v_centered
+app/src/main/java/app/game/donor/ui/composable/screen/about/rules/header -> v_divider
+app/src/main/java/app/game/donor/ui/composable/screen/about/rules/list -> v_divided_rows
+app/src/main/java/app/game/donor/ui/composable/screen/difficulty/option/content -> v_badge
+app/src/main/java/app/game/donor/ui/composable/screen/difficulty/option/meter -> v_single_star
+app/src/main/java/app/game/donor/ui/composable/screen/difficulty/option/shell -> v_tonal
+app/src/main/java/app/game/donor/ui/composable/screen/game/card -> v_fade
+app/src/main/java/app/game/donor/ui/composable/screen/game/card/back -> v_pattern
+app/src/main/java/app/game/donor/ui/composable/screen/game/card/feedback/deal -> v_drop
+app/src/main/java/app/game/donor/ui/composable/screen/game/card/feedback/match -> v_ring
+app/src/main/java/app/game/donor/ui/composable/screen/game/card/feedback/mismatch -> v_shake
+app/src/main/java/app/game/donor/ui/composable/screen/game/field/shell -> v_tonal
+app/src/main/java/app/game/donor/ui/composable/screen/game/hud/content -> v_timer_hero
+app/src/main/java/app/game/donor/ui/composable/screen/game/hud/shell -> v_tonal
+app/src/main/java/app/game/donor/ui/composable/screen/game/symbols -> v_nature
+app/src/main/java/app/game/donor/ui/composable/screen/high_scores/card -> v_row
+app/src/main/java/app/game/donor/ui/composable/screen/high_scores/filter -> v_segmented
+app/src/main/java/app/game/donor/ui/composable/screen/high_scores/filter/chip -> v_text_only
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/block/content -> v_text_only
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/block/shell -> v_tonal
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/difficulty -> v_segmented
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/header -> v_badge
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/layout -> v_bento
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/scores -> v_stats_row
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/start -> v_summary
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/start/pulse -> v_nudge
+app/src/main/java/app/game/donor/ui/composable/screen/main_menu/content/start/pulse/timing -> v_calm
+app/src/main/java/app/game/donor/ui/composable/screen/shared/button -> v_icon
+app/src/main/java/app/game/donor/ui/composable/screen/shared/modifier/press -> v_sink
+app/src/main/java/app/game/donor/ui/composable/screen/splash -> v_drop
+app/src/main/java/app/game/donor/ui/theme -> v_cp4718
+app/src/main/java/app/game/donor/ui/theme/dimens -> v_balanced
+app/src/main/java/app/game/donor/ui/theme/typography -> v_font_arcade
