@@ -1,0 +1,65 @@
+<resources>
+    <string name="back_icon_description">رجوع</string>
+    <string name="moose_app_logo_description">شعار اللعبة</string>
+    <string name="moose_main_menu_tagline">طابق كل الأزواج</string>
+    <string name="main_menu_play">ابدأ</string>
+    <string name="main_menu_high_scores">أفضل النتائج</string>
+    <string name="main_menu_about">معلومات اللعبة</string>
+    <string name="main_menu_exit">خروج</string>
+    <string name="menu_start_summary_format">\u200E%1$s · %2$d\u200E بطاقة</string>
+    <string name="menu_scores_moves_label">الحركات</string>
+    <string name="menu_scores_time_label">المدة</string>
+    <string name="menu_scores_empty">أكمل لعبة لتسجل رقمًا قياسيًا</string>
+    <string name="menu_about_subtitle">الدليل والتفاصيل</string>
+    <string name="menu_exit_subtitle">أغلق اللعبة</string>
+    <string name="menu_previous_difficulty">مستوى أسهل</string>
+    <string name="menu_next_difficulty">مستوى أصعب</string>
+    <string name="moose_difficulty_title">اختر مستوى</string>
+    <string name="difficulty_easy">سهل</string>
+    <string name="difficulty_medium">متوسط</string>
+    <string name="difficulty_hard">صعب</string>
+    <string name="difficulty_pairs_format">\u200E%1$d\u200E أزواج</string>
+    <string name="difficulty_cards_pairs_format">\u200E%1$d · %2$d\u200E بطاقات وأزواج</string>
+    <string name="game_moves_format">الحركات: \u200E%1$d\u200E</string>
+    <string name="game_preview_format">احفظ! \u200E%1$d\u200E</string>
+    <string name="game_playing_hint">طابق البطاقات</string>
+    <string name="game_best_none">الرقم القياسي: –</string>
+    <string name="game_best_format">الرقم القياسي: \u200E%1$d · %2$s\u200E</string>
+    <string name="game_time_format">المنقضي: \u200E%1$s\u200E</string>
+    <string name="game_hud_moves_label">الحركات</string>
+    <string name="game_hud_time_label">المؤقت</string>
+    <string name="game_hud_pairs_label">الأزواج</string>
+    <string name="game_hud_pairs_format">\u200E%1$d من %2$d\u200E</string>
+    <string name="game_hud_minimal_format">\u200E%1$d · %2$s\u200E</string>
+    <string name="game_finished_title">اكتمل اللوح!</string>
+    <string name="game_finished_moves_format">إجمالي الحركات: \u200E%1$d\u200E</string>
+    <string name="game_finished_time_format">الوقت النهائي: \u200E%1$s\u200E</string>
+    <string name="game_finished_new_record_format">\u200E%1$s\u200E — حطمت الرقم القياسي!</string>
+    <string name="game_play_again">لعبة جديدة</string>
+    <string name="game_main_menu">القائمة الرئيسية</string>
+    <string name="dialog_exit_title">إنهاء هذه الجولة؟</string>
+    <string name="dialog_exit_message">سيُحذف تقدم هذه الجولة.</string>
+    <string name="dialog_action_confirm">إنهاء</string>
+    <string name="dialog_action_cancel">تابع اللعب</string>
+    <string name="moose_high_scores_title">أفضل النتائج</string>
+    <string name="high_scores_empty">ستظهر الأرقام القياسية هنا</string>
+    <string name="high_scores_filter_moves">الحركات</string>
+    <string name="high_scores_filter_time">المدة</string>
+    <string name="high_scores_filter_date">تاريخ اللعب</string>
+    <string name="high_score_card_score_format">\u200E%1$d · %2$s\u200E</string>
+    <string name="high_score_card_rank_format">الترتيب \u200E%1$d\u200E</string>
+    <string name="high_score_card_moves_label">الحركات</string>
+    <string name="high_score_card_time_label">المدة</string>
+    <string name="high_score_card_date_label">تاريخ اللعب</string>
+    <string name="moose_about_title">تفاصيل اللعبة</string>
+    <string name="about_rules_title">دليل اللعب</string>
+    <string name="about_version_format">الإصدار \u200E%1$s\u200E</string>
+    <string name="about_developer_label">من إنشاء</string>
+    <string name="about_contact_label">تواصل معنا</string>
+    <string-array name="about_rules">
+        <item>يبقى اللوح كله مكشوفًا لبضع ثوانٍ — احفظ موضع كل بطاقة.</item>
+        <item>بعد المعاينة، تُخفى كل البطاقات. اضغط على بطاقة لقلبها.</item>
+        <item>ابحث عن البطاقة المطابقة للبطاقة التي قلبتها.</item>
+        <item>اختر التحدي: تضع المستويات الأصعب بطاقات أكثر على اللوح.</item>
+    </string-array>
+</resources>
