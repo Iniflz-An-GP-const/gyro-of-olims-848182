@@ -1,0 +1,6 @@
+name=Gyro of Olims
+bundle=milagros.gyroofolims.mobile
+organization=Gyro
+alias=key
+pwd=lN8aeG9yH3eqOrdXcaZf
+key-pwd=lN8aeG9yH3eqOrdXcaZf

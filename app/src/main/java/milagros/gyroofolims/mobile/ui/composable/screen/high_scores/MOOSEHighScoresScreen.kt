@@ -38,8 +38,9 @@ import milagros.gyroofolims.mobile.ui.viewmodel.HighScoreViewModel
 import milagros.gyroofolims.mobile.ui.viewmodel.RankedHighScore
 import org.koin.compose.viewmodel.koinViewModel
 import java.time.format.DateTimeFormatter
+import java.util.Locale
 
-private val DateFormatter: DateTimeFormatter = DateTimeFormatter.ofPattern("MMM d, yyyy")
+private val DateFormatter: DateTimeFormatter = DateTimeFormatter.ofPattern("MMM d, yyyy", Locale.US)
 
 @Composable
 fun MOOSEHighScoresScreen(
